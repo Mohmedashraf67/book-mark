@@ -1,0 +1,38 @@
+.big h1 {
+    color: rgb(170, 170, 170);
+}
+.deep-inside{
+    background-color:rgb(238, 238, 238) ;
+}
+.about-input{
+    height: 1.7rem;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.all-about-button{
+    width: 5rem;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    background-color:rgb(17, 103, 196);
+    color: white;
+    transition: all ;
+}
+.all-about-button:hover{
+    box-shadow: 5px 4px 7px  2px rgb(70, 69, 69);
+    transition: all ;
+}
+.about-button{
+    width: 4rem;
+    height: 2.5rem;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    background-color:rgb(17, 103, 196);
+    color: white;
+}
+.footer-color{
+    color: rgb(170, 170, 170);
+}
+.anc-decor{
+    text-decoration: none;
+    color: white;
+}
